@@ -100,7 +100,7 @@ button_scan.grid(row=2, column=0, columnspan=2)
 button_about = tk.Button(root, text="Sobre", command=about)
 button_about.grid(row=3, column=0, columnspan=2)
 
-text_output = tk.Text(root, height=40, width=100)
+text_output = tk.Text(root, height=30, width=100)
 text_output.grid(row=4, column=0, columnspan=2)
 
 well_known_ports = ler_portas_para_dict("common-ports.txt")
