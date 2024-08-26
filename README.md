@@ -57,3 +57,6 @@ Você deverá realizar uma pesquisa dos módulos e bibliotecas que permitem o de
 - Permitir inserir o range (intervalo) de portas a serem escaneadas; (1 ponto)
 - Além da função de escaneamento, espera-se que seu código relacione as portas Well-Known Ports e seus serviços, e apresente em sua saída (imprimir) o número da porta e o nome do serviço associado. (2 pontos)
 - Existem diversos projetos e documentações relacionados com esta atividade. Aproveite para analisar os códigos já desenvolvidos para teu projeto.
+
+
+##### Foi utilizado o auxilio do ChatGPT e do Copilot para a criação deste projeto e deste readme.
