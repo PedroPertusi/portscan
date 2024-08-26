@@ -22,7 +22,15 @@ Este é um projeto de escaneamento de portas desenvolvido como parte do Desafio 
 ### Instruções
 
 1. **Clone o repositório ou baixe os arquivos do projeto.**
-2. **Execute o arquivo principal do programa.**
+2. **Crie e ative um ambiente virtual (opcional).**
+
+``` python -m venv venv```
+
+3. **Instale os módulos necessários.**
+
+``` pip install -r requirements.txt```
+
+4. **Execute o arquivo principal do programa.**
 
 ``` python port_scan.py```
 
