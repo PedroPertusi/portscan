@@ -78,7 +78,9 @@ def about():
         "  no campo 'Range de Portas'.\n"
         "- Clique no botão 'Começar Scan' para iniciar a verificação.\n\n"
         "O resultado será exibido na janela de saída, mostrando o status de\n"
-        "cada porta e o serviço associado (se conhecido)."
+        "cada porta e o serviço associado (se conhecido).\n\n"
+        "Em caso de múltiplas portas pode ser esperado um tempo maior para a\n"
+        "conclusão da verificação.\n\n"
     )
 
 
