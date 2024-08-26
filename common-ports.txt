@@ -1,0 +1,167 @@
+7 TCP/UDP echo
+9 TCP/UDP discard
+19 TCP/UDP chargen
+20 TCP/SCTP ftp-data
+21 TCP/UDP/SCTP ftp
+22 TCP/UDP/SCTP ssh/scp/sftp
+23 TCP telnet
+25 TCP smtp
+42 TCP/UDP wins replication
+43 TCP/UDP whois
+49 UDP tacacs
+53 TCP/UDP dns
+67 UDP dhcp/bootp
+68 UDP dhcp/bootp
+69 UDP tftp
+70 TCP gopher
+79 TCP finger
+80 TCP/UDP/SCTP http
+88 TCP/UDP kerberos
+101 TCP hostname
+102 TCP microsoft exchange iso-tsap
+110 TCP pop3
+113 TCP ident
+119 TCP nntp (usenet)
+123 UDP ntp
+135 TCP/UDP microsoft rpc epmap
+137 TCP/UDP netbios-ns
+138 TCP/UDP netbios-dgm
+139 TCP/UDP netbios-ssn
+143 TCP/UDP imap
+161 UDP snmp-agents (unencrypted)
+162 UDP snmp-trap (unencrypted)
+177 UDP xdmcp
+179 TCP bgp
+194 UDP irc
+201 TCP/UDP appletalk
+264 TCP/UDP bgmp
+318 TCP/UDP tsp
+381 TCP/UDP hp openview
+383 TCP/UDP hp openview
+389 TCP/UDP ldap
+411 TCP/UDP (multiple uses)
+412 TCP/UDP (multiple uses)
+427 TCP slp
+443 TCP/UDP/SCTP https (http over ssl)
+445 TCP/UDP microsoft ds smb
+464 TCP/UDP kerberos
+465 TCP smtp over tls/ssl
+465 TCP ssm
+497 TCP/UDP dantz retrospect
+500 UDP ipsec/isakmp/ike
+512 TCP rexec
+513 TCP rlogin
+514 UDP syslog/shell
+515 TCP lpd/lpr
+520 UDP rip
+521 UDP ripng (ipv6)
+540 TCP uucp
+546 TCP/UDP dhcpv6
+547 TCP/UDP dhcpv6
+548 TCP afp
+554 TCP/UDP rtsp
+560 UDP rmonitor
+563 TCP/UDP nntp over tls/ssl
+587 TCP smtp/submission
+591 TCP filemaker
+593 TCP/UDP microsoft dcom
+596 TCP/UDP smsd
+631 TCP ipp
+636 TCP/UDP ldap over tls/ssl
+639 TCP msdp (pim)
+646 TCP/UDP ldp (mpls)
+691 TCP microsoft exchange
+860 TCP iscsi
+873 TCP rsync
+902 TCP/UDP vmware server
+989 TCP ftps
+990 TCP ftps
+992 TCP/UDP telnets
+993 TCP imap over ssl (imaps)
+995 TCP/UDP pop3 over ssl (pop3s)
+1025 TCP microsoft rpc
+1080 TCP/UDP socks
+1194 TCP/UDP openvpn
+1241 TCP/UDP nessus
+1311 TCP dell openmanage
+1433 TCP ms-sql-s
+1434 TCP/UDP ms-sql-m
+1494 TCP ica
+1512 TCP/UDP wins
+1524 TCP/UDP ingreslock
+1589 TCP/UDP cisco vqp
+1701 UDP l2tp
+1719 UDP h323gatestat
+1720 TCP h323hostcall
+1723 TCP/UDP microsoft pptp
+1725 UDP steam
+1755 TCP/UDP mms
+1812 TCP/UDP radius
+1813 TCP/UDP radius-acct
+1985 UDP hsrp
+2000 TCP cisco sccp
+2002 TCP cisco acs
+2008 TCP teamspeak 3 accounting
+2010 UDP teamspeak 3 web list
+2049 TCP/UDP nfs
+2082 TCP/UDP cpanel
+2083 TCP/UDP radsec/cpanel
+2100 TCP amiganetfs
+2102 TCP/UDP zephyr-srv
+2103 TCP/UDP zephyr-clt
+2104 TCP/UDP zephyr-hm
+2222 TCP directadmin
+2401 TCP cvspserver
+2483 TCP/UDP oracle
+2484 TCP/UDP oracle
+2809 TCP/UDP corbaloc
+2967 TCP/UDP symantec av
+3128 TCP/UDP http proxy
+3222 TCP/UDP glbp
+3260 TCP/UDP iscsi target
+3306 TCP/UDP mysql
+3389 TCP rdp
+3689 TCP daap
+3690 TCP/UDP svn
+4321 TCP rwhois
+4333 TCP msql
+4500 UDP ipsec nat traversal
+4899 TCP radmin
+5000 TCP upnp
+5001 TCP iperf
+5004 UDP rtp/rtsp
+5005 UDP rtp/rtsp
+5060 TCP/UDP sip
+5061 TCP sip-tls
+5222 TCP xmpp
+5223 TCP xmpp
+5353 UDP mdns
+5432 TCP postresql
+5800 TCP vnc over http
+5900-5999 TCP/UDP rfb/vnc server
+5999 TCP cvsup
+6000-6001 TCP X11
+6129 TCP dameware
+6379 TCP redis
+6588 TCP analogx
+6588 TCP http proxy
+8080 TCP http proxy
+8200 TCP/UDP vmware server
+8222 TCP/UDP vmware server
+8767 UDP Teamspeak
+9042 TCP cassandra
+9100 TCP pdl
+9800 TCP/UDP webdav
+10161 TCP snmp-agents
+10162 TCP snmp-trap
+13720 TCP/UDP bprd
+13721 TCP/UDP bpdbm
+13724 TCP/UDP vnetd
+13782 TCP/UDP bpcd
+13783 TCP/UDP vopied
+20000 TCP/UDP usermin
+22273 TCP/UDP wnn6
+23399 TCP/UDP skype
+25565 TCP minecraft
+27017 TCP/UDP mongodb
+33434 TCP/UDP traceroute
